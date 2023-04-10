@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.sidebar{
+  background-color: rgb(248,249,250);
+ height: 100vh;;
+  text-align: center;
+}
+.sidebar ul li {
+  background-color: #ccc;
+ 
+}
+.sidebar ul li a{
+  text-decoration: none;
+  cursor: pointer;
+  padding:10px 0 ;
+  display: block;
+ margin-bottom: 10px;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.navbar{
+  margin-bottom: 0;
+}
+.about td{
+  width:25% ;
+}
